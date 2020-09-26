@@ -1,0 +1,2 @@
+Total weight(carat): 55.0
+Total price: 6000.0
